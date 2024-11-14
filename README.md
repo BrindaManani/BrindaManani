@@ -1,6 +1,5 @@
-<p align="center">
-  ![MasterHead](https://img.freepik.com/premium-vector/digital-technology-communication-with-computer-gears-women-design_1120563-22891.jpg)
-</p>
+<img align="center" width="4000" src="https://t3.ftcdn.net/jpg/03/14/86/38/360_F_314863875_iMelMYXMDHS4LO0RWBver4D4JeuohbVF.jpg">
+
 <h1 align="center" style="color:#6a0dad;">Hi 👋, I'm Brinda Manani</h1>
 <h3 align="center" style="color:#ff6347;">Code is my art, and design is my expression</h3>
 
