@@ -88,15 +88,6 @@
 
 ---
 
-## 🤝 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/brinda-manani-3a599b28b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=social&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
----
-
 ## ✨ My Experience
 - Contributor at **GSSoC**
 - Mentor at **GSSoC 2024 Extd**
